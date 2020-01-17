@@ -1,0 +1,77 @@
+Paket 1: merancang animasi lampu etalase/lampu hias/runing LED sesuai keinginan
+-----------------
+1.blinking LED
+2.membuat LED meredup perlahan
+3.membuat LED menyala bergantian
+4.menyusun logika animasi ke dalam blok-blok terpisah agar rapi
+5.power management
+6.mengganti tipe-tipe animasi yang telah dibuat melalui bluetoth
+
+========================================
+Paket 2: Membuat robot management pengumuman/antrian berbasis suara
+-----------
+1.membaca nilai input digital
+2.membuat logika pengelompokan angka
+3.merender beberapa file suara MP3 menjadi 1 rangkaian kalimat ucapan utuh
+4.membuat rangkaian pengelola output suara ke speaker
+5.menampilkan nilai antrian/isi pengumuman saat ini di panel LED matrix
+6.mengirim data via komunikasi serial
+7.mengirim data ke printer termal untuk pencetakan nomor antrian/pesan pengumuman
+8.mengintegrasikan beberapa robot management antiran dalam 1 sistem
+power management
+
+=======================================
+Paket 3: membuat sistem pengidentifikasi benda secara wireless denga sensor RFID, NFC, PIR, ultrasonic
+------------------
+1.membaca nilai input digital
+2.membaca nilai dari komunikasi via i2c
+3.membaca nilai dari sensor RFID, NFC, PIR, ultrasonic
+4.membangun algoritma analisa nilai input dari sensor
+5.menyimpan data acuan ke chip IC flash memory
+6.penembpatan posisi sensor pada produk
+7.pemilihan jenis sensor sesuai situasi, kondisi dan kasus
+8.power management
+
+
+========================================
+Paket 4: Membuat sistem penguncian pintu berbasis touchscreen/fingerprint/keypad pin/password
+-------------------
+1.membaca nilai input digital
+2.membuat rangkaian panel sensor touchscreen/fingerprint/keypad pin/password
+3.membuat logika penterjemahan hasil pembacaan sensor
+4.menyimpan nilai pembacaaan sensor ke chip IC flash memory
+5.melakukan pengecekan authentikasi/kecocokan input sensor baru dengna data yang tersimpan di flash memory
+6.menggunakan berbagai actuator security
+7.pencegahan triger palsu ke actuator dan pencegahan hacking
+8.power management
+
+
+
+
+
+
+
+============================
+Paket 5.A: Membuat robot beroda dengna kontrol wireless via frequensi 433MHz
+---------
+1.blinking LED
+2.led redup
+3.arah putaran mootr DC
+4.kecepatan putaran motor DC
+5.koordinat pergerakan motor servo
+6.membaca nilai sensor potensiometer
+7.kontrol wireless via frequensi 433MHz
+
+=========================================
+
+
+Paket 5.B: Membuat robot dengan fungsi pelacak, pendeteksi keberadaan, pembaca situasi dan misi penyelamatan
+-------------
+1.Membuat robot beroda dengan kontrol wireless via frequensi 433MHz
+2.membaca nilai sensor jarak berbasis laser infrared
+3.menampilkan hasil pembacaan jarak di panel LCD 16X2
+4.membaca nilai sensor berbagai jenis gas berbahaya, temperatur, kelembapan, kecepatan angin dan ketinggian
+5.mengambil gambar dari camera
+6.mengirim nilai sensor-sensor dan gambar dari camera secara wireless ke perangkat lain/operator
+7.management perlindungan data
+8.power management
