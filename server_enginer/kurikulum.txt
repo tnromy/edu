@@ -1,0 +1,132 @@
+paket 1:
+git dan github colaboration space VCS
+----------------------
+1.pengenalan git system dan peruntukan
+membuat akun github serta mengenal fitur-fiturnya
+2.mengenal repository dan membuat repository baru di github
+3.membuat cabang repository di github
+4.bekerja dalam tim di repository github
+5.menginstall git di komputer pribadi
+6.mengenal cara kerja git
+7.mengkonfigurasi git
+8.menghubungkan git dengan akun github
+9.bekerja dalam tim dengan git
+10.management versi project di git
+11.mengatasi konflik kolaborasi di git
+
+paket 2:
+network enginering
+----------------------
+1.pengenalan sistem komunikasi berbasis IP
+2.pengaplikasian langsung pengetahuan tentang  5 lapisan jaringan dengan simulasi penyadapan
+3.hubungan IP dan service/port
+4.firewall dan pembatasan service
+5.mengenal DNS
+6.membuat DNS server local
+7.pemahaman umum IPv6
+
+paket 3:
+vpn server
+-----------
+1.instalasi linux server dari nol
+2.instalasi software depedensi
+3.konfigurasi jaringan
+4.instalasi openVPN server
+5.konfigurasi firewall server
+6.management sertifikat SSL
+7.client management, Authentication, Authorization, accounting
+
+paket 4:
+proxy server
+-----------
+1.instalasi linux server dari nol
+2.penggunaan berbagai jenis proxy
+3.load balancing/proxy terbalik
+4.SSH tunneling
+5.web proxy
+6.client management
+7.firewall configuration
+
+paket 5:
+voip server
+--------------
+1.instalasi linux dari nol
+2.konfigurasi jaringan
+3.instalasi asterisk central telepon
+4.konfigurasi asterisk server
+5.client management
+6.pengaturan nomor telepon
+7.firewall configuration
+8.mempersiapkan IP telepon/client
+9.mempersiapkan virtual telepon/client
+10.menghubungkan ke ATA/Analog Telepon Adapter
+
+paket 6:
+live streaming server
+------------------------
+1.instalasi linux dari nol
+2.instalasi RTMP server
+3.konfigurasi RTMP server
+4.token management
+5.user management
+6.membuat UI berbasis web
+7.membuat web API
+8.firewall configuration
+
+
+paket 7:
+build own cloud drive private
+------------------
+1.instalasi linux dari nol
+2.instalasi depedensi ownCload
+3.instalasi dan konfigurasi server ownCload
+menggunakan client ownCload via web, desktop dan mobile
+4.ownCload security
+5.cara menyimpan dan mengakses data di ownCload
+7.scale up server ownCload
+8.firewall configuration
+
+
+paket 8:
+build cloud computing dan virtualisasi
+---------------
+1.instalasi linux dari nol
+2.instalasi virtualbox
+3.membuat virtualisasi
+4.instalasi openstack
+5.menggunakan API openstack
+6.konfigurasi jaringan virtualisasi
+7.mengelola image virtual dengan vagrant
+8.menyebarkan image yang dibuat menggunakan vagrant
+9.power management dan power backup
+10.ISP managemnt dan ISP backup
+
+
+paket 9:
+docker container
+--------------
+1.pengenalan docker
+2.instalasi docker
+3.membuat image docker
+4.membuat container
+5.konfigurasi service/port docker
+6.mengguankan container registry
+7.otomatisasi dengna docker-compose
+8.instalasi docker-compose
+9.menulis file YAML docker-compose
+10.menggunakan variable lingkungna
+11.konfigurasi volume docker
+12.konfigurasi network docker
+13.backup volume docker
+14.integrasi beberapa node docker
+15.firewall configuration
+
+
+paket 10:
+cyber security / cara mengamankan server dari berbagai upaya hacking
+-------------
+1.mengenal struktur komunikasi internet
+2.mempelajari berbagai teknik hacking
+3.mempelajari teknik bertahan dari setiap teknik hacking yang telah dipelajari
+4.konfigurasi firewall dan service
+5.menerapkan berbagai pertahanan ke server yang dibuat
